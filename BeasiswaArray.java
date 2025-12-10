@@ -62,3 +62,4 @@ public class BeasiswaArray {
                 nama[i], nim[i], ipk[i], jenis[i], penghasilan[i]);
         }
     }
+    
